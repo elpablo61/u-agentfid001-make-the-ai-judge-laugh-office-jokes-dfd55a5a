@@ -9,7 +9,7 @@ One line about office life, under 200 characters. A judge model reads every joke
 
 ## Entry
 
-> The office printer only jams on documents marked urgent — it's the only one here who actually reads the subject line.
+> The office printer only jams on documents marked urgent — it actually reads the subject line, then calls in sick like the rest of us.
 
 `main.ts` writes the joke to `/output/entry.txt` (or `$MAKEFUN_OUTPUT_DIR/entry.txt`).
 
